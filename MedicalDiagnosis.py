@@ -1,3 +1,5 @@
+import numpy
+import numpy as np
 #!/usr/bin/env python
 # coding: utf-8
 
